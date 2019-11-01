@@ -1,9 +1,3 @@
-/* @import url("./layouts/widescreen.css") (min-width: 961px) and (max-width: 1880px);
-@import url("./layouts/desktop.css") (min-width: 961px) and (max-width: 1620px);
-@import url("./layouts/narrow.css") (min-width: 961px) and (max-width: 1320px);
-@import url("./layouts/narrower.css") (max-width: 960px);
-@import url("./layouts/mobile.css") (max-width: 736px); */
-
 /* Header */
 
 #header {
