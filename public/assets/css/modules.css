@@ -639,7 +639,7 @@ button:active,
   /* Footer */
 
   #footer {
-    margin-left: 0;
+    margin-left: 20%;
   }
 
   /* Main */
@@ -835,6 +835,10 @@ button:active,
 
   /* Footer */
 
+  #footer {
+    margin-left: 0;
+  }
+
   #footer .copyright li {
     display: block;
     line-height: 1.25em;
@@ -851,4 +855,12 @@ button:active,
     margin-left: 0;
   }
 
+}
+
+.fa-github {
+  font-size: 1.1em;
+}
+
+#footer span {
+  padding: 10px;
 }
