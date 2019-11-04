@@ -22,9 +22,9 @@ Feature #3 - Picture Slides
 
 Feature #4 - Update to CDNs
 - Estimate of time needed to complete: 30 minutes
-- Start time: 
-- Finish time: 
-- Actual time needed to complete:
+- Start time: 09:15 AM
+- Finish time: 09:45 AM
+- Actual time needed to complete: 30 minutes
 
 Feature #5 - Change Tablet Menu
 - Estimate of time needed to complete: 15 minutes
