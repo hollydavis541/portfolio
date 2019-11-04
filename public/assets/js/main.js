@@ -1,31 +1,3 @@
-// var images = [
-//   'images/brokentop.jpg',
-//   'images/hollyface.jpg',
-//   'images/cookies.png'
-// ]
-
-// var imageUrl = 'images/brokentop.jpg';
-
-// // https://stackoverflow.com/questions/512054/setting-background-image-using-jquery-css-property
-
-// $('#main>section.slideshow').css( 'background-image', 'url(' + imageUrl + ')');
-
-// // https://stackoverflow.com/questions/37242754/how-do-i-change-the-background-image-every-x-seconds/37243062
-
-
-
-
-// var i = 0;
-// setInterval(function() {
-//   imageHead.style.backgroundImage = 'url(' + images[i] + ')';
-//   i = i + 1;
-//   if (i == images.length) {
-//     i = 0;
-//   }
-// }, 3000);
-
-
-
 /*
 	Prologue by HTML5 UP
 	html5up.net | @ajlkn
