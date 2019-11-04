@@ -12,6 +12,20 @@
 
 /* Modifed from demos found at https://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-with-css3/ */
 
+.fa-github {
+	font-size: 1.1em;
+}
+
+#footer {
+	background-color: #7AA4A2;
+	color: white;
+}
+
+#footer span {
+	padding: 10px;
+}
+
+
 .slideshow,
 .slideshow:after {
     position: fixed;
