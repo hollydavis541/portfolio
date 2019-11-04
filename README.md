@@ -11,6 +11,24 @@ Feature #1 - Refactor the CSS
 Feature #2 - Customize Content
 - Estimate of time needed to complete: 2 hours
 - Start time: 09:30 AM
+- Finish time: 12:30 PM
+- Actual time needed to complete: 3 hours
+
+Feature #3 - Picture Slides
+- Estimate of time needed to complete: 2 hours
+- Start time: 05:15 PM
+- Finish time: 08:15 PM
+- Actual time needed to complete: 3 hours
+
+Feature #4 - Update to CDNs
+- Estimate of time needed to complete: 30 minutes
+- Start time: 
 - Finish time: 
-- Actual time needed to complete: 
+- Actual time needed to complete:
+
+Feature #5 - Change Tablet Menu
+- Estimate of time needed to complete: 15 minutes
+- Start time: 
+- Finish time: 
+- Actual time needed to complete:
 
