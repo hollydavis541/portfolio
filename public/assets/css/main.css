@@ -58,7 +58,7 @@
     animation: imageAnimation 18s linear infinite 0s;
 }
 
-.slideshow li:nth-child(1) span { background-image: url(../../images/brokentop.JPG) }
+.slideshow li:nth-child(1) span { background-image: url(../../images/brokentop.jpg) }
 
 
 .slideshow li:nth-child(2) span {
