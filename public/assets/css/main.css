@@ -10,33 +10,3 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
-
-h1, h2, #footer, #title2, span {
-	font-family: 'Special Elite', monospace;
-}
-
-#footer {
-	font-size: .8em;
-	color: #666;
-}
-
-h2 {
-	line-height: 1.3em;
-}
-
-p {
-	font-family: 'Inconsolata', monospace;	
-}
-
-#welcome {
-	letter-spacing: 4px;
-}
-
-#title {
-	font-family: 'Source Sans Pro', sans-serif;
-}
-
-.button {
-	font-family: 'Inconsolata', monospace;	
-}
