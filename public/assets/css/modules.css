@@ -654,7 +654,7 @@ button:active,
     -ms-transition: -ms-transform 0.5s ease;
     transition: transform 0.5s ease;
     padding-bottom: 1px;
-    margin-left: 0;
+    margin-left: 20%;
   }
 
   #main>section {
@@ -845,6 +845,10 @@ button:active,
 
   #footer .copyright li:first-child {
     margin-top: 0;
+  }
+
+  #main {
+    margin-left: 0;
   }
 
 }
