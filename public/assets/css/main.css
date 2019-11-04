@@ -10,6 +10,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* Modifed from demos found at https://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-with-css3/ */
 
 .slideshow,
 .slideshow:after {
@@ -17,12 +18,11 @@
     width: 100%;
     height: 100%;
     top: 0px;
-    left: 0px;
-    z-index: 0;
+    /* left: 0px; */
+    z-index: -10;
 }
 .slideshow:after {
     content: '';
-    /* background: transparent url(../images/pattern.png) repeat top left; */
 }
 .slideshow li span {
     width: 100%;
@@ -48,7 +48,7 @@
 
 
 .slideshow li:nth-child(2) span {
-    background-image: url(../../images/hollyface.jpg);
+    background-image: url(../../images/smithrock.jpg);
     -webkit-animation-delay: 6s;
     -moz-animation-delay: 6s;
     -o-animation-delay: 6s;
@@ -56,7 +56,7 @@
     animation-delay: 6s;
 }
 .slideshow li:nth-child(3) span {
-    background-image: url(../../images/cookies.png);
+    background-image: url(../../images/bluepool.jpg);
     -webkit-animation-delay: 12s;
     -moz-animation-delay: 12s;
     -o-animation-delay: 12s;
