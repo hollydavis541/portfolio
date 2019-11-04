@@ -28,7 +28,7 @@ Feature #4 - Update to CDNs
 
 Feature #5 - Change Tablet Menu
 - Estimate of time needed to complete: 15 minutes
-- Start time: 
-- Finish time: 
-- Actual time needed to complete:
+- Start time: 10:10 AM
+- Finish time: 10:25 AM
+- Actual time needed to complete: 15 minutes
 
